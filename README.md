@@ -175,4 +175,4 @@ This software is designed for authorized security testing only. Users must obtai
 - Enterprise security teams for valuable feedback
 
 ---
-For support, bug reports, or feature requests, please open an issue in our [Issue Tracker](https://github.com/yourusername/intelligent-subdomain-discovery/issues).
+For support, bug reports, or feature requests, please open an issue in our [Issue Tracker](https://github.com/mgalal0/intelligent-subdomain-discovery/issues).
